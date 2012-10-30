@@ -401,10 +401,12 @@ p {
 }
 #section-5 .slideshow .item-1 .photo {}
 #section-5 .slideshow .item-2 .photo {}
-#section-5 .slideshow .item-3 .photo {left:0px;}
+#section-5 .slideshow .item-3 .photo {left: 0px;}
 #section-5 .slideshow .item-4 .photo {left: 30px;}
 #section-5 .slideshow .item-5 .photo {bottom: 110px; left: 0px;}
 #section-5 .slideshow .item-6 .photo {}
+#section-5 .slideshow .item-7 .photo {}
+#section-5 .slideshow .item-8 .photo {left: 0px;}
 #section-5 .slideshow .person {background: url("../img/bg-bridesmaids.png") no-repeat scroll 0 0 transparent;}
 
 /* INFO - When, Where, How */
