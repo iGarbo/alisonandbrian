@@ -191,7 +191,7 @@ p {
   background: url("../img/bg-menu.png") no-repeat scroll -611px -22px transparent;
   width: 102px;
 }
-#menu #nav-gifts a {
+#menu #nav-registry a {
   background: url("../img/bg-menu.png") no-repeat scroll -754px -22px transparent;
   width: 48px;
 }
@@ -442,7 +442,7 @@ p {
   width: 579px;
 }
 
-/* Gifts */
+/* Registry */
 #section-7 {background: none repeat scroll 0 0 transparent;}
 .box2-top {
   background: url("../img/bg-box2-top.png") no-repeat scroll center top transparent;
