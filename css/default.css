@@ -397,7 +397,7 @@ p {
 #section-5 .slideshow-control li:hover,
 #section-5 .slideshow-control li.active {
   background-position:0 -40px;
-  color:#ffffff;
+  color: #ffffff;
 }
 #section-5 .slideshow .item-1 .photo {}
 #section-5 .slideshow .item-2 .photo {}
