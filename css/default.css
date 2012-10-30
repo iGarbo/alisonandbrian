@@ -192,12 +192,12 @@ p {
   width: 102px;
 }
 #menu #nav-gifts a {
-  background: url("../img/bg-menu.png") no-repeat scroll -754px -45px transparent;
-  width: 29px;
+  background: url("../img/bg-menu.png") no-repeat scroll -754px -22px transparent;
+  width: 48px;
 }
 #menu #nav-rsvp a {
   background: url("../img/bg-menu.png") no-repeat scroll -840px -22px transparent;
-  width: 27px;
+  width: 30px;
 }
 
 /* Generic slideshow styles */
