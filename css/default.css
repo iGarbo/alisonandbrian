@@ -446,6 +446,9 @@ p {
   font-family: Arial;
   font-family: 'KnockoutHTF48-Featherweight';
   font-size: 18px;
+  color: #8F8F8F;
+  line-height: 1.5;
+  margin: 0 0 15px;
   font-weight: bold;
 }
 
