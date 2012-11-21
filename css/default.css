@@ -421,6 +421,7 @@ p {
 .box1-middle {
   background: url("../img/bg-box1-middle.png") repeat-y scroll center bottom transparent;
   min-height: 50px;
+  text-align: left;
   padding: 15px 80px 5px;
 }
 .box1-bottom {
@@ -443,13 +444,20 @@ p {
 }
 
 #section-6 h4 {
-  font-family: Arial;
-  font-family: 'KnockoutHTF48-Featherweight';
+  font-family: Georgia;
   font-size: 18px;
   color: #8F8F8F;
   line-height: 1.5;
   margin: 0 0 15px;
   font-weight: bold;
+}
+
+#section-6 li {
+  font-family: Georgia;
+  font-size: 16px;
+  color: #8F8F8F;
+  line-height: 1.5;
+  margin: 0 0 15px;
 }
 
 /* Registry */
