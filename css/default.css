@@ -276,9 +276,8 @@ p {
 }
 #section-1 {
   background: url("../img/banner-2.jpg") no-repeat scroll center 67px #CFCFCF;
-  height: 613px;
+  height: 563px;
   padding-top: 67px;
-
 }
 #section-1 .wrap {
   padding: 505px 0 22px;
@@ -296,7 +295,6 @@ p {
 #section-2 {
   background: none repeat scroll 0 0 transparent;
 }
-
 
 /* Photos */
 #section-3 {}
