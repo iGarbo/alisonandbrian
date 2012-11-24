@@ -486,11 +486,11 @@ p {
   padding: 0 0 114px;
   width: 731px;
 }
-#section-7 ul {
+.ul {
   margin: 0;
   padding-left: 30px;
 }
-#section-7 li {
+.li {
   font-family: Georgia;
   font-size: 16px;
   color: #8F8F8F;
