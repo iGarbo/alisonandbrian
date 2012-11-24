@@ -486,3 +486,16 @@ p {
   padding: 0 0 114px;
   width: 731px;
 }
+#section-7 ul {
+  margin: 0;
+  padding-left: 30px;
+}
+#section-7 li {
+  font-family: Georgia;
+  font-size: 16px;
+  color: #8F8F8F;
+  line-height: 1.5;
+  text-indent: 0.5em;
+  margin-left: -0.5em;
+}
+
